@@ -10,6 +10,6 @@ Welcome to my (Work in Progress) Take and Hold character for Hot Dogs, Horseshoe
 | Task | Status |
 | :-: | :-: |
 | Read a tutorial | Done |
-| 999999999 | 999999999 |
-| 99999999 | 99999999 |
-| 9999999 | 9999999 | 
+| Create a character file and folder | Done |
+| Assemble the loot pool and mods required | In progress |
+| TBD | TBD | 
